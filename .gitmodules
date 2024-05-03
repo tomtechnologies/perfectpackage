@@ -1,0 +1,3 @@
+[submodule "perfectpackage"]
+	path = perfectpackage
+	url = http://git.agtoft.com/perfectpackage/.git
